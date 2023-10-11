@@ -9,7 +9,7 @@ Let's consider the below use case (diagram) and WAF baseline to demonstrate and 
 
 In this use case, we are considering an IT environment, the reference presented in the chapter "Baseline" (add a link here).
 
-
+![image](https://github.com/rudneir2/WAF20-secure-a-development-lifycycle/assets/97529152/1a4474f7-2182-4acb-8ed5-09c8c15e87a3)
 
 To explain the recommendations to have a Secure development lifecycle, let's consider the following:
 
